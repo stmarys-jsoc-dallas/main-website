@@ -1,0 +1,36 @@
+[
+    {
+        "file":"index.html",
+        "displayLabel":"Home"
+    },
+    {
+        "file":"blog.html",
+        "displayLabel":"Blog",
+        "children":[
+            {
+                "file":"blog.html",
+                "displayLabel":"Blog Index"
+            },
+            {
+                "file":"single.html",
+                "displayLabel":"Post"
+            }
+        ]
+    },
+    {
+        "file":"sunday-school.html",
+        "displayLabel":"Sunday School"
+    },
+    {
+        "file":"spiritual-leaders.html",
+        "displayLabel":"Spiritual Leaders"
+    },
+    {
+        "file":"https://www.facebook.com/StMarysSyrianOrthodoxChurch/",
+        "displayLabel":"Facebook"
+    },
+    {
+        "file":"contact.html",
+        "displayLabel":"Contact Us"
+    }
+]
