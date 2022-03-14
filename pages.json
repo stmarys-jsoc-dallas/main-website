@@ -4,22 +4,22 @@
         "displayLabel":"Home"
     },
     {
-        "file":"blog.html",
-        "displayLabel":"Blog",
+        "file":"sunday-school.html",
+        "displayLabel":"Organizations",
         "children":[
             {
-                "file":"blog.html",
-                "displayLabel":"Blog Index"
+                "file":"sunday-school.html",
+                "displayLabel":"Sunday School"
             },
             {
                 "file":"single.html",
-                "displayLabel":"Post"
+                "displayLabel":"Marthamariam Samajam"
+            },
+            {
+                "file":"blog.html",
+                "displayLabel":"Youth League"
             }
         ]
-    },
-    {
-        "file":"sunday-school.html",
-        "displayLabel":"Sunday School"
     },
     {
         "file":"spiritual-leaders.html",
