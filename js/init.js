@@ -17,7 +17,11 @@ jQuery(document).ready(function () {
       let isCurrent = pages[i].file === loc;
       if (pages[i].children) {
         pagesHtml +=
-          "<li><span><a>" + pages[i].displayLabel + "</a></span><ul>";
+          '<li><span><a href="' +
+          pages[i].file +
+          '">' +
+          pages[i].displayLabel +
+          "</a></span><ul>";
         for (let j = 0; j < pages[i].children.length; j++) {
           pagesHtml +=
             '<li><a href="' +
