@@ -1,46 +1,47 @@
 [
-    {
-        "file":"index.html",
-        "displayLabel":"Home"
-    },
-    {
-        "displayLabel":"Organizations",
-        "children":[
-            {
-                "file":"sunday-school.html",
-                "displayLabel":"Sunday School"
-            },
-            {
-                "file":"single.html",
-                "displayLabel":"Marthamariam Samajam"
-            },
-            {
-                "file":"blog.html",
-                "displayLabel":"Youth League"
-            }
-        ]
-    },{
-                "file":"sunday-school.html",
-                "displayLabel":"Sunday School"
-            },
-            {
-                "file":"single.html",
-                "displayLabel":"Marthamariam Samajam"
-            },
-            {
-                "file":"blog.html",
-                "displayLabel":"Youth League"
-            }
-    {
-        "file":"spiritual-leaders.html",
-        "displayLabel":"Spiritual Leaders"
-    },
-    {
-        "file":"https://www.facebook.com/StMarysSyrianOrthodoxChurch/",
-        "displayLabel":"Facebook"
-    },
-    {
-        "file":"contact.html",
-        "displayLabel":"Contact Us"
-    }
+  {
+    "file": "index.html",
+    "displayLabel": "Home"
+  },
+  {
+    "displayLabel": "Organizations",
+    "children": [
+      {
+        "file": "sunday-school.html",
+        "displayLabel": "Sunday School"
+      },
+      {
+        "file": "single.html",
+        "displayLabel": "Marthamariam Samajam"
+      },
+      {
+        "file": "blog.html",
+        "displayLabel": "Youth League"
+      }
+    ]
+  },
+  {
+    "file": "sunday-school.html",
+    "displayLabel": "Sunday School"
+  },
+  {
+    "file": "single.html",
+    "displayLabel": "Marthamariam Samajam"
+  },
+  {
+    "file": "blog.html",
+    "displayLabel": "Youth League"
+  },
+  {
+    "file": "spiritual-leaders.html",
+    "displayLabel": "Spiritual Leaders"
+  },
+  {
+    "file": "https://www.facebook.com/StMarysSyrianOrthodoxChurch/",
+    "displayLabel": "Facebook"
+  },
+  {
+    "file": "contact.html",
+    "displayLabel": "Contact Us"
+  }
 ]
