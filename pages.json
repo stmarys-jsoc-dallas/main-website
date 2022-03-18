@@ -19,7 +19,18 @@
                 "displayLabel":"Youth League"
             }
         ]
-    },
+    },{
+                "file":"sunday-school.html",
+                "displayLabel":"Sunday School"
+            },
+            {
+                "file":"single.html",
+                "displayLabel":"Marthamariam Samajam"
+            },
+            {
+                "file":"blog.html",
+                "displayLabel":"Youth League"
+            }
     {
         "file":"spiritual-leaders.html",
         "displayLabel":"Spiritual Leaders"
