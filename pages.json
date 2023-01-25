@@ -7,6 +7,10 @@
     "displayLabel": "Organizations",
     "children": [
       {
+        "file": "board-of-trustees.html",
+        "displayLabel": "2023 Board of Trustees"
+      },
+      {
         "file": "sunday-school.html",
         "displayLabel": "Sunday School"
       },
