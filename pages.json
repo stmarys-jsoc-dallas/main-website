@@ -4,23 +4,12 @@
     "displayLabel": "Home"
   },
   {
+    "file": "index.html",
     "displayLabel": "Organizations",
     "children": [
       {
         "file": "board-of-trustees.html",
         "displayLabel": "2023 Board of Trustees"
-      },
-      {
-        "file": "sunday-school.html",
-        "displayLabel": "Sunday School"
-      },
-      {
-        "file": "single.html",
-        "displayLabel": "Marthamariam Samajam"
-      },
-      {
-        "file": "blog.html",
-        "displayLabel": "Youth League"
       }
     ]
   },
