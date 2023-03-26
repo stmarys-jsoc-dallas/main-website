@@ -4,18 +4,17 @@
     "displayLabel": "Home"
   },
   {
-    "file": "index.html",
+    "file": "spiritual-leaders.html",
+    "displayLabel": "Spiritual Leaders"
+  },
+  {
     "displayLabel": "Organizations",
     "children": [
       {
         "file": "board-of-trustees.html",
-        "displayLabel": "2023 Board of Trustees"
+        "displayLabel": "Board of Trustees"
       }
     ]
-  },
-  {
-    "file": "spiritual-leaders.html",
-    "displayLabel": "Spiritual Leaders"
   },
   {
     "file": "church-events.html",
@@ -24,9 +23,5 @@
   {
     "file": "https://www.facebook.com/StMarysSyrianOrthodoxChurch/",
     "displayLabel": "Facebook"
-  },
-  {
-    "file": "contact.html",
-    "displayLabel": "Contact Us"
   }
 ]

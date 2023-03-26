@@ -210,7 +210,7 @@ header {
 header .logo {
   position: absolute;
   left: 20px;
-  top: 48px;
+  top: 40px;
 }
 header .logo a {
   display: block;
