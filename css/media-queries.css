@@ -9,6 +9,11 @@
 /* small screens
 --------------------------------------------------------------------- */
 @media only screen and (max-width: 900px) {
+  .footer-custom {
+    flex-direction: column;
+    text-align: center;
+  }
+
   header .logo {
     left: 36px;
   }
@@ -42,7 +47,7 @@
     display: inline-block;
   }
   #sidebar .link-list li:before {
-    content: "|";
+    content: '|';
     padding-left: 6px;
     padding-right: 6px;
     color: #d4d4d4;
@@ -146,7 +151,7 @@
     top: 35%;
     left: 25%;
     right: 25%;
-    content: "";
+    content: '';
   }
   #nav-wrap > a:after {
     top: 60%;
@@ -329,7 +334,7 @@
     display: inline;
   }
   #journal .entry .post-meta .dauthor:before {
-    content: "/";
+    content: '/';
     padding-left: 5px;
     padding-right: 5px;
   }
@@ -478,13 +483,25 @@
     float: none;
   }
 
+  footer ul,
+  ol {
+    margin-bottom: 0;
+    margin-top: 12px;
+  }
+
   /* footer nav */
   footer .footer-nav {
     font: 15px/42px raleway-bold, sans-serif;
     margin: 0;
-    padding: 0 0 18px 0;
+    padding: 0;
     text-align: center;
   }
+
+  footer .footer-nav ul {
+    display: flex;
+    flex-direction: column;
+  }
+
   footer .footer-nav li {
     display: inline;
     margin-right: 12px;
