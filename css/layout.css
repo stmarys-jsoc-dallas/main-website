@@ -1268,6 +1268,13 @@ ol.commentlist {
 /* m. footer
 /* ------------------------------------------------------------------ */
 
+.footer-custom {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #c4caca;
+  padding-bottom: 30px;
+}
+
 footer {
   margin-top: 66px;
   margin-bottom: 84px;
