@@ -4,6 +4,16 @@
     "displayLabel": "Home"
   },
   {
+    "file": "about.html",
+    "displayLabel": "About",
+    "children": [
+      {
+        "file": "about.html",
+        "displayLabel": "About Us"
+      }
+    ]
+  },
+  {
     "file": "spiritual-leaders.html",
     "displayLabel": "Spiritual Leaders"
   },
